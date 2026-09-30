@@ -13,9 +13,9 @@ class Matrix < Formula
   # `url` and `sha256` are rewritten by .github/workflows/release.yml against
   # the npm tarball after each publish. Until the first release job rewrites
   # this staging copy, the placeholder sha256 is intentionally non-installable.
-  url "https://registry.npmjs.org/@finnaai/matrix/-/matrix-0.3.20.tgz"
-  sha256 "c5d594bba3eb24ebe2e4ff149ab9397b8986a80ea3b8f90a84be7a187fd4f186"
-  version "0.3.20"
+  url "https://registry.npmjs.org/@finnaai/matrix/-/matrix-0.3.21.tgz"
+  sha256 "694a342df998bd1d47c48d5928b89c9327dbc818ae6f24b9f82f811de7a3e3bd"
+  version "0.3.21"
 
   license "AGPL-3.0-or-later"
 
